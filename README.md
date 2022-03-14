@@ -1,3 +1,3 @@
 ## Code_Examples
-**Примеры решения задач на Python**  
-Условия задач находятся внутри Jupiter Notebook
+**Solutions for some Python excercises**  
+Tasks are described inside the Jupyer Notebook.
